@@ -38,10 +38,10 @@ We can see that Corona first start from china . But there is no increase in tota
 
 ![image](https://github.com/asbpintu/Covid-19-Outbreak-Prediction-World-data-and-INDIA-data-/assets/77091963/5cfc61c0-44d5-496d-8988-f238d354dcf8)
 
-*The United States has highest total cases of the coronavirus.
-*Also United States has highest total death.
-*India is the second country according to total COVID-19 cases, and Brazil is third.
-*But according to total COVID-19 deaths Brazil is the second country, and India is Third.
+* The United States has highest total cases of the coronavirus.
+* Also United States has highest total death.
+* India is the second country according to total COVID-19 cases, and Brazil is third.
+* But according to total COVID-19 deaths Brazil is the second country, and India is Third.
 
 
-==  The data collected from the beginning of the coronavirus outbreak up until April 2022, but please note that the results may change in future. ==
+==The data collected from the beginning of the coronavirus outbreak up until April 2022, but please note that the results may change in future.==
