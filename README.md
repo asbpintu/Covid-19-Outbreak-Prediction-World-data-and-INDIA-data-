@@ -45,5 +45,9 @@ We can see that Corona first start from china . But there is no increase in tota
 
 
 
+
+
+
+
 `The data collected from the beginning of the coronavirus outbreak up until April 2022, but please note that the results may change in future.`
 
