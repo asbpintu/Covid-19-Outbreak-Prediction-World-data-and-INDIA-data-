@@ -37,4 +37,6 @@ warnings.filterwarnings("ignore")
 ### Line graph of Total cases in India
 We can clearly see that in after summer the total cases of corona virus in India was increasing.
 
-![image](https://github.com/asbpintu/Covid-19-Outbreak-Prediction-World-data-and-INDIA-data-/assets/77091963/83aa0c13-6d8d-4615-9f77-89a3f896f885)
+![image](https://github.com/asbpintu/Covid-19-Outbreak-Prediction-World-data-and-INDIA-data-/assets/77091963/858eb982-6f53-4dff-8865-fa2f1d9470a0)
+
+
