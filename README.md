@@ -33,3 +33,4 @@ warnings.filterwarnings("ignore")
       North America    25203
       South America     9621
       Oceania           9345
+![image](https://github.com/asbpintu/Covid-19-Outbreak-Prediction-World-data-and-INDIA-data-/assets/77091963/469fe00c-ebf0-4cec-af43-068974ac3194)
