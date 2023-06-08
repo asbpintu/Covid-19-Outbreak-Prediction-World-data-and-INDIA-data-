@@ -33,4 +33,8 @@ warnings.filterwarnings("ignore")
       North America    25203
       South America     9621
       Oceania           9345
-![image](https://github.com/asbpintu/Covid-19-Outbreak-Prediction-World-data-and-INDIA-data-/assets/77091963/469fe00c-ebf0-4cec-af43-068974ac3194)
+
+### Line graph of Total cases in India
+We can clearly see that in after summer the total cases of corona virus in India was increasing.
+
+![image](https://github.com/asbpintu/Covid-19-Outbreak-Prediction-World-data-and-INDIA-data-/assets/77091963/8442a0d0-776e-415b-b042-5463f9dd3b7f)
