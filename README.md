@@ -6,7 +6,7 @@ The COVID-19 pandemic has had a significant impact globally, affecting nearly ev
 
 ### Showing the total no of records grouped by Continent
 ```js 
-      data["continent"].value_counts()
+data["continent"].value_counts()
 ```
       Africa           39857
       Europe           37494
