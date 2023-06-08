@@ -26,7 +26,8 @@ warnings.filterwarnings("ignore")
 ### Showing the total no of records grouped by Continent
 ```js 
       data["continent"].value_counts()
-      
+```
+```
       Africa           39857
       Europe           37494
       Asia             36584
