@@ -44,4 +44,4 @@ We can see that Corona first start from china . But there is no increase in tota
 * But according to total COVID-19 deaths Brazil is the second country, and India is Third.
 
 
-==The data collected from the beginning of the coronavirus outbreak up until April 2022, but please note that the results may change in future.==
+== The data collected from the beginning of the coronavirus outbreak up until April 2022, but please note that the results may change in future. ==
