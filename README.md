@@ -26,11 +26,10 @@ warnings.filterwarnings("ignore")
 ### Showing the total no of records grouped by Continent
 ```js 
       data["continent"].value_counts()
-
-
-                  Africa           39857
-                  Europe           37494
-                  Asia             36584
-                  North America    25203
-                  South America     9621
-                  Oceania           9345
+```
+Africa           39857
+Europe           37494
+Asia             36584
+North America    25203
+South America     9621
+Oceania           9345
