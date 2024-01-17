@@ -28,7 +28,7 @@ We can clearly see that in after summer the total cases of corona virus in India
 
 We can see that Corona first start from china . But there is no increase in total cases or total deaths in china in comparision with India and usa.
 
-![image](image/total case indchiusa.png)
+![image](image/totalcaseindchiusa.png)
 
 ![image](image/totaldeathindchiusa.png)
 
